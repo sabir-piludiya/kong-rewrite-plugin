@@ -1,5 +1,5 @@
 package = "kong-rewrite-plugin-test"
-version = "0.5.1-0"
+version = "0.1.1-0"
 source = {
    url = "git://github.com/sabir-piludiya/kong-rewrite-plugin-test",
 }
