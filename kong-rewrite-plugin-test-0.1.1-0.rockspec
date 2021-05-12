@@ -13,7 +13,7 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-    ["kong.plugins.kong-rewrite-plugin-test.handler"] = "url-rewrite/handler.lua",
-    ["kong.plugins.kong-rewrite-plugin-test.schema"] = "url-rewrite/schema.lua"
+    ["kong.plugins.kong-rewrite-plugin-test.handler"] = "handler.lua",
+    ["kong.plugins.kong-rewrite-plugin-test.schema"] = "schema.lua"
    }
 }
